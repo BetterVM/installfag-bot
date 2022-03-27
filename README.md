@@ -1,8 +1,6 @@
 # installfag-bot
 Prefix is c!
 
-Source code will be released after this is finished.
-
 Try it here: http://bettervm.glitch.me/#vm7
 # Commands
 Here are the current commands:
